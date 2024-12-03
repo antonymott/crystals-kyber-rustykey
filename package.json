@@ -13,7 +13,8 @@
   "scripts": {
     "build": "tsup",
     "test": "vitest",
-    "lint": "tsc"
+    "lint": "tsc",
+    "release": "changeset publish"
   },
   "repository": {
     "type": "git",
