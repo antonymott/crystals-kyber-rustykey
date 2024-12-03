@@ -1,5 +1,5 @@
 {
-  "name": "crystals-kyber-rustykey",
+  "name": "@uqs.org/crystals-kyber-rustykey",
   "license": "ISC",
   "version": "0.0.1",
   "main": "dist/index.js",
@@ -9,6 +9,14 @@
     "build": "tsup src/index.ts --format esm --dts",
     "release": "pnpm run build && changeset publish",
     "lint": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonymott/crystals-kyber-rustykey.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Antony R. Mott"
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.10",
