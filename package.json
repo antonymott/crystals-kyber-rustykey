@@ -14,7 +14,7 @@
     "build": "tsup",
     "test": "vitest",
     "lint": "tsc",
-    "release": "changeset publish"
+    "release": "changeset publish --access public"
   },
   "repository": {
     "type": "git",
