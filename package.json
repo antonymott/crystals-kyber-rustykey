@@ -1,5 +1,5 @@
 {
-  "name": "crystals-kyber-rustykey",
+  "name": "@uqs.org/crystals-kyber-rustykey",
   "license": "ISC",
   "version": "0.0.2",
   "main": "dist/index.js",
