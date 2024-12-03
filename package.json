@@ -1,12 +1,13 @@
 {
   "name": "@uqs.org/crystals-kyber-rustykey",
+  "description": "",
   "license": "ISC",
   "version": "0.0.2",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "tsup src/index.ts --format esm --dts",
+    "build": "tsup src/index.ts",
     "release": "pnpm run build && changeset publish",
     "lint": "tsc"
   },
