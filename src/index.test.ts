@@ -20,13 +20,13 @@ describe('#sum', () => {
 
 import { MlKem512 } from './mlKem/mlKem512'
 
-test('...', async() => {
+it('...', async() => {
     const recipient = new MlKem512()
     const [pkR, skR] = await recipient.generateKeyPair()
 
     const sender = new MlKem512()
     const [ct, ssS] = await sender.encap(pkR)
     const ssR = await recipient.decap(ct, skR)
-    
-    await new Promise(r => setTimeout(r))
+    expect(ssR).toBe(ssS)
+    // await new Promise(r => setTimeout(r))
 })

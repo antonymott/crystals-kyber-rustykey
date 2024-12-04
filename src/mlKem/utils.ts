@@ -105,9 +105,6 @@ export async function loadCrypto(): Promise<webcrypto.Crypto> {
   } else {
     throw new Error('Web Crypto API not available ')
   }
-  //   const x: webcrypto.Crypto = globalThis.crypto
-  //   return x
-  // }
 }
 
 // export async function loadCrypto(): Promise<webcrypto.Crypto> {
