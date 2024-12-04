@@ -4,4 +4,4 @@ export const add = (a: number, b: number) => {
 
 export const kp = 1
 
-export default kp
+export { MlKem512 } from './mlKem/mlKem512'
