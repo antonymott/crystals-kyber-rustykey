@@ -1,5 +1,11 @@
 # crystals-kyber-rustykey
 
+## 0.0.11
+
+### Patch Changes
+
+- fix link
+
 ## 0.0.10
 
 ### Patch Changes

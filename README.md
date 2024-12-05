@@ -6,12 +6,10 @@
   <img src="./kyber.png"/>
 </p>
 
-The "Cryptographic Suite for Algebraic Lattices" (CRYSTALS) encompasses two cryptographic primitives: Kyber, an IND-CCA2-secure key-encapsulation mechanism (KEM); and Dilithium, a strongly EUF-CMA-secure digital signature algorithm. Both algorithms are based on hard problems over module lattices, are designed to withstand attacks by large quantum computers, and were selected among the winners of the NIST post-quantum cryptography project.
-https://pq-crystals.org/index.shtml
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fpq-crystals.org%2Fkyber%2F&psig=AOvVaw3NSx8Te3NCXINNbe68sPJn&ust=1733371826595000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiygLKfjYoDFQAAAAAdAAAAABAE
+The "Cryptographic Suite for Algebraic Lattices" (CRYSTALS) encompasses two cryptographic primitives: Kyber, an IND-CCA2-secure key-encapsulation mechanism (KEM); and Dilithium, a strongly EUF-CMA-secure digital signature algorithm. Both algorithms are based on hard problems over module lattices, are designed to withstand attacks by large quantum computers, and were selected among the winners of the [NIST post-quantum cryptography project](https://pq-crystals.org/index.shtml)
 
-based on work by Antony Tutoveanu here https://github.com/antontutoveanu/crystals-kyber-javascript/blob/main/LICENSE
-and by Ajitomi Daisuke here https://github.com/dajiaji/crystals-kyber-js/tree/main
+based on work by [Antony Tutoveanu](https://github.com/antontutoveanu/crystals-kyber-javascript)
+and by [Ajitomi Daisuke](https://github.com/dajiaji/crystals-kyber-js/tree/main)
 
 
 <div align="center">
