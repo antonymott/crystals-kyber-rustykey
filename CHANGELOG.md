@@ -1,5 +1,11 @@
 # crystals-kyber-rustykey
 
+## 0.0.10
+
+### Patch Changes
+
+- crystals
+
 ## 0.0.9
 
 ### Patch Changes
