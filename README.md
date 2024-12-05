@@ -20,18 +20,18 @@ and by Ajitomi Daisuke here https://github.com/dajiaji/crystals-kyber-js/tree/ma
 
 | package           | registry                                                                                                                  | description                                                                                                                                                                                                                          |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| crystals-kyber-js | [![npm](https://img.shields.io/npm/v/crystals-kyber-rustykey)](https://www.npmjs.com/package/crystals-kyber-rustykey) |         |
+| crystals-kyber-rustykey | [![npm](https://img.shields.io/npm/v/crystals-kyber-rustykey)](https://www.npmjs.com/package/crystals-kyber-rustykey) |  🚧 WORK IN PROGRESS 🚧      |
 
 
 For Node.js, you can install crystals-kyber-rustykey via pnpm, npm or yarn:
 
 ```sh
-npm install crystals-kyber-rustykey
+pnpm install crystals-kyber-rustykey
 ```
-
+<div align="left">
 Use:
 
-```ts
+```typescript
 import { MlKem768 } from "crystals-kyber-rustykey";
 
 async function doMlKem() {
