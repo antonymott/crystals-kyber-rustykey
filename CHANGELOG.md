@@ -1,5 +1,11 @@
 # crystals-kyber-rustykey
 
+## 0.0.16
+
+### Patch Changes
+
+- 7ad2a51: update
+
 ## 0.0.14
 
 ### Patch Changes

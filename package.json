@@ -1,6 +1,6 @@
 {
   "name": "crystals-kyber-rustykey",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "ML-KEM (QRS) compiled to WebAssembly",
   "license": "ISC",
   "keywords": [
