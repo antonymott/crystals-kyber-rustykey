@@ -1,5 +1,12 @@
 # crystals-kyber-rustykey
 
+## 0.0.14
+
+### Patch Changes
+
+- 8d33cd1: update deprecated
+- ac191c2: update deprecated
+
 ## 0.0.11
 
 ### Patch Changes
