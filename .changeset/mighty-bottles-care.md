@@ -2,4 +2,4 @@
 "crystals-kyber-rustykey": patch
 ---
 
-test update
+update deprecated

@@ -1,4 +1,10 @@
-node_modules
-dist
-coverage
+.idea
+.vscode
 .DS_Store
+build
+install
+dist
+node_modules
+PQClean
+libsodium
+pycparser
